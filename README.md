@@ -1,6 +1,6 @@
 # Webpack Started
 
-Este es el proyecto inicial para crear aplicaciones
+Este es el proyecto TODO para crear tareas
 utilizando web pack.
 
 ### Notas
